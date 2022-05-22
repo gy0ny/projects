@@ -109,7 +109,7 @@ for (i in 1:5){
 }
 
 
-#### dataframe / xlsx ?��보내�? #####
+#### dataframe / xlsx ?‚´ë³´ë‚´ê¸? #####
 (var_names1 <- to_dataframe(selected_var1))
 (var_names2 <- to_dataframe(selected_var2))
 (var_names3 <- to_dataframe(selected_var3))
@@ -156,7 +156,7 @@ for (i in 1:5){
   selected_var3[i] = list(model3$ix)
 }
 
-#### dataframe / xlsx ?��보내�? #####
+#### dataframe / xlsx ?‚´ë³´ë‚´ê¸? #####
 (var_names1 <- to_dataframe(selected_var1))
 (var_names2 <- to_dataframe(selected_var2))
 (var_names3 <- to_dataframe(selected_var3))
@@ -166,7 +166,7 @@ openxlsx::write.xlsx(dataset_names, file = 'EEG_class3_selected_vars.xlsx')
 
 
 
-# �Ϸ�
+# ¿Ï·á
 
 
 
@@ -274,7 +274,7 @@ for (i in 1:5){
 }
 
 
-#### dataframe / xlsx ?��보내�? #####
+#### dataframe / xlsx ?‚´ë³´ë‚´ê¸? #####
 (var_names1 <- to_dataframe(selected_var1))
 (var_names2 <- to_dataframe(selected_var2))
 (var_names3 <- to_dataframe(selected_var3))
@@ -321,7 +321,7 @@ for (i in 1:5){
   selected_var3[i] = list(model3$ix)
 }
 
-#### dataframe / xlsx ?��보내�? #####
+#### dataframe / xlsx ?‚´ë³´ë‚´ê¸? #####
 (var_names1 <- to_dataframe(selected_var1))
 (var_names2 <- to_dataframe(selected_var2))
 (var_names3 <- to_dataframe(selected_var3))
@@ -441,7 +441,7 @@ for (i in 1:5){
 }
 
 
-#### dataframe / xlsx ?��보내�? #####
+#### dataframe / xlsx ?‚´ë³´ë‚´ê¸? #####
 (var_names1 <- to_dataframe(selected_var1))
 (var_names2 <- to_dataframe(selected_var2))
 (var_names3 <- to_dataframe(selected_var3))
@@ -488,7 +488,7 @@ for (i in 1:5){
   selected_var3[i] = list(model3$ix)
 }
 
-#### dataframe / xlsx ?��보내�? #####
+#### dataframe / xlsx ?‚´ë³´ë‚´ê¸? #####
 (var_names1 <- to_dataframe(selected_var1))
 (var_names2 <- to_dataframe(selected_var2))
 (var_names3 <- to_dataframe(selected_var3))
@@ -502,7 +502,7 @@ openxlsx::write.xlsx(dataset_names, file = 'EEGHRV_class3_selected_vars.xlsx')
 
 
 
-###### index 99 (clinical?��?��)
+###### index 99 (clinical?¬?•¨)
 ind99 <- read.csv('C:\\Users\\amy71\\Downloads\\index data\\index99.csv',header=T) 
 
 
@@ -556,7 +556,7 @@ for (i in 1:5){
 }
 
 
-#### dataframe / xlsx ?��보내�? #####
+#### dataframe / xlsx ?‚´ë³´ë‚´ê¸? #####
 columns = cbind(subset(clinical, select = -c(group,sex,X5.marriage)),clinical[c('sex','X5.marriage')])
 to_dataframe <- function(selected_var){
   var_names <- list(0,0,0,0,0)
@@ -614,7 +614,7 @@ for (i in 1:5){
 }
 
 
-#### dataframe / xlsx ?��보내�? #####
+#### dataframe / xlsx ?‚´ë³´ë‚´ê¸? #####
 (var_names1 <- to_dataframe(selected_var1))
 (var_names2 <- to_dataframe(selected_var2))
 (var_names3 <- to_dataframe(selected_var3))
@@ -664,7 +664,7 @@ for (i in 1:5){
 }
 
 
-#### dataframe / xlsx ?��보내�? #####
+#### dataframe / xlsx ?‚´ë³´ë‚´ê¸? #####
 (var_names1 <- to_dataframe(selected_var1))
 (var_names2 <- to_dataframe(selected_var2))
 (var_names3 <- to_dataframe(selected_var3))
@@ -728,7 +728,7 @@ for (i in 1:5){
 }
 
 
-#### dataframe / xlsx ?��보내�? #####
+#### dataframe / xlsx ?‚´ë³´ë‚´ê¸? #####
 columns = cbind(subset(EEGCli, select = -c(group,sex,X5.marriage)),EEGCli[c('sex','X5.marriage')])
 to_dataframe <- function(selected_var){
   var_names <- list(0,0,0,0,0)
@@ -782,7 +782,7 @@ for (i in 1:5){
 }
 
 
-#### dataframe / xlsx ?��보내�? #####
+#### dataframe / xlsx ?‚´ë³´ë‚´ê¸? #####
 (var_names1 <- to_dataframe(selected_var1))
 (var_names2 <- to_dataframe(selected_var2))
 (var_names3 <- to_dataframe(selected_var3))
@@ -832,7 +832,7 @@ for (i in 1:5){
 }
 
 
-#### dataframe / xlsx ?��보내�? #####
+#### dataframe / xlsx ?‚´ë³´ë‚´ê¸? #####
 (var_names1 <- to_dataframe(selected_var1))
 (var_names2 <- to_dataframe(selected_var2))
 (var_names3 <- to_dataframe(selected_var3))
@@ -894,7 +894,7 @@ for (i in 1:5){
 }
 
 
-#### dataframe / xlsx ?��보내�? #####
+#### dataframe / xlsx ?‚´ë³´ë‚´ê¸? #####
 columns = cbind(subset(HRVCli, select = -c(group,sex,X5.marriage)),HRVCli[c('sex','X5.marriage')])
 to_dataframe <- function(selected_var){
   var_names <- list(0,0,0,0,0)
@@ -951,7 +951,7 @@ for (i in 1:5){
 }
 
 
-#### dataframe / xlsx ?��보내�? #####
+#### dataframe / xlsx ?‚´ë³´ë‚´ê¸? #####
 (var_names1 <- to_dataframe(selected_var1))
 (var_names2 <- to_dataframe(selected_var2))
 (var_names3 <- to_dataframe(selected_var3))
@@ -1001,7 +1001,7 @@ for (i in 1:5){
 }
 
 
-#### dataframe / xlsx ?��보내�? #####
+#### dataframe / xlsx ?‚´ë³´ë‚´ê¸? #####
 (var_names1 <- to_dataframe(selected_var1))
 (var_names2 <- to_dataframe(selected_var2))
 (var_names3 <- to_dataframe(selected_var3))
@@ -1063,7 +1063,7 @@ for (i in 1:5){
 }
 
 
-#### dataframe / xlsx ?��보내�? #####
+#### dataframe / xlsx ?‚´ë³´ë‚´ê¸? #####
 columns = cbind(subset(EEGHRVCli, select = -c(group,sex,X5.marriage)),EEGHRVCli[c('sex','X5.marriage')])
 to_dataframe <- function(selected_var){
   var_names <- list(0,0,0,0,0)
@@ -1120,7 +1120,7 @@ for (i in 1:5){
 }
 
 
-#### dataframe / xlsx ?��보내�? #####
+#### dataframe / xlsx ?‚´ë³´ë‚´ê¸? #####
 (var_names1 <- to_dataframe(selected_var1))
 (var_names2 <- to_dataframe(selected_var2))
 (var_names3 <- to_dataframe(selected_var3))
@@ -1170,7 +1170,7 @@ for (i in 1:5){
 }
 
 
-#### dataframe / xlsx ?��보내�? #####
+#### dataframe / xlsx ?‚´ë³´ë‚´ê¸? #####
 (var_names1 <- to_dataframe(selected_var1))
 (var_names2 <- to_dataframe(selected_var2))
 (var_names3 <- to_dataframe(selected_var3))
