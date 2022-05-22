@@ -1,4 +1,4 @@
-# projects
+# Projects
 **1. 2021 문화관광 빅데이터 분석대회 (최우수상)** 
 : '서울말고 다른곳은 어때?'
 
@@ -31,6 +31,7 @@
 5) 네이버블로그 텍스트 데이터의 감성분석을 통한 감성점수 부여
 
 
+
 **2. 2021 빅콘테스트**
 : 댐 유입수량 예측을 통한 최적 유입량 예측
 
@@ -52,6 +53,8 @@
 1) 데이터 길이를 동일하게하여 LSTM 모델에 적용하기 위해 zero-masking
 2) Tensorflow의 keras를 이용한 LSTM 모형 적용
 3) scikit-learn을 이용해 Decision Tree, RandomForest, XGBoost, LightGBM 모형 적용 및 튜닝
+
+
 
 **3. 교통·문화·통신 빅데이터 플랫폼 융합 분석 경진대회 (최우수상)**
 : 'Fun, Cool, Safety in 강릉'
@@ -78,6 +81,7 @@ KORAIL 데이터, KT데이터, 한국문화원 데이터, 네이버카페 크롤
 3) Python matplotlib 활용해 EDA
 
 
+
 **4-1. 자료분석특론 personal project** 
 : Animal Image Classification using Convolution Model
 
@@ -97,6 +101,7 @@ CNN, Resnet, Mobilenet 모델의 성능 비교
 
 1) Keras를 이용하여 CNN 모형 구현 및 적용
 2) Resnet, Mobilenet 사전학습망 모형 적용
+
 
 **4-2.자료분석특론 personal project** 
 : Wine review point 예측
@@ -142,6 +147,7 @@ Genetic Algorithm. International Journal of Computer Applications. 122. 11-14.10
 2) OX crossover, PMX crossover 방법에 대해 R의 GA 패키지 이용
 
 
+
 **6. 일반화선형모형 Team project**
 :Garbage Classification with Resnet model
 
@@ -161,6 +167,7 @@ Resnet 논문의 코드를 구현하여 Resnet18 모델을 적용하고 torch에
 
 1) Pytorch를 이용하여 Resnet 18 모형 구현 및 적용
 2) torch에서 제공하는 사전학습망 모형 적용
+
 
 
 **7. [포스터논문]Heart rate variability enhances the EEG-based machine learning prediction of Internet gaming disorder (최우수상)**
