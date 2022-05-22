@@ -54,7 +54,7 @@
 2) Tensorflow의 keras를 이용한 LSTM 모형 적용
 3) scikit-learn을 이용해 Decision Tree, RandomForest, XGBoost, LightGBM 모형 적용 및 튜닝
 
-
+<br/><br/>
 
 ## **3. 교통·문화·통신 빅데이터 플랫폼 융합 분석 경진대회 (최우수상)**
 : 'Fun, Cool, Safety in 강릉'
@@ -80,7 +80,7 @@ KORAIL 데이터, KT데이터, 한국문화원 데이터, 네이버카페 크롤
 2) 네이버 카페 텍스트 크롤링, 워드 클라우드 생성
 3) Python matplotlib 활용해 EDA
 
-
+<br/><br/>
 
 ## **4-1. 자료분석특론 personal project** 
 : Animal Image Classification using Convolution Model
@@ -102,6 +102,7 @@ CNN, Resnet, Mobilenet 모델의 성능 비교
 1) Keras를 이용하여 CNN 모형 구현 및 적용
 2) Resnet, Mobilenet 사전학습망 모형 적용
 
+<br/>
 
 ## **4-2.자료분석특론 personal project** 
 : Wine review point 예측
@@ -123,7 +124,7 @@ Kaggle의 Animal Image dataset
 1) scikit-learn를 이용하여 Randomforest, Catboost, Lightgbm 적용
 2) scikit-learn Gridsearch 이용하여 하이퍼 파라미터 튜닝
 
-
+<br/><br/>
 
 ## **5. 계산특론 Team project**
 : 8-Queens Problem using Genetic Algorithm
@@ -146,7 +147,7 @@ Genetic Algorithm. International Journal of Computer Applications. 122. 11-14.10
 1) 논문에서 제시한 3-way tournament 방법에 대해 직접 R로 구현
 2) OX crossover, PMX crossover 방법에 대해 R의 GA 패키지 이용
 
-
+<br/><br/>
 
 ## **6. 일반화선형모형 Team project**
 :Garbage Classification with Resnet model
@@ -168,7 +169,7 @@ Resnet 논문의 코드를 구현하여 Resnet18 모델을 적용하고 torch에
 1) Pytorch를 이용하여 Resnet 18 모형 구현 및 적용
 2) torch에서 제공하는 사전학습망 모형 적용
 
-
+<br/><br/>
 
 ## **7. [포스터논문]Heart rate variability enhances the EEG-based machine learning prediction of Internet gaming disorder (최우수상)**
 (한국데이터정보학회 포스터 논문 발표)
