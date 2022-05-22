@@ -1,5 +1,5 @@
-### Projects
-# **1. 2021 문화관광 빅데이터 분석대회 (최우수상)** 
+## Projects
+## **1. 2021 문화관광 빅데이터 분석대회 (최우수상)** 
 : '서울말고 다른곳은 어때?'
 
  **대회 주제** 
@@ -32,7 +32,7 @@
 
 
 
-**2. 2021 빅콘테스트**
+## **2. 2021 빅콘테스트**
 : 댐 유입수량 예측을 통한 최적 유입량 예측
 
 **대회 주제** 
@@ -56,7 +56,7 @@
 
 
 
-**3. 교통·문화·통신 빅데이터 플랫폼 융합 분석 경진대회 (최우수상)**
+##**3. 교통·문화·통신 빅데이터 플랫폼 융합 분석 경진대회 (최우수상)**
 : 'Fun, Cool, Safety in 강릉'
 
 **대회 주제** 
@@ -82,7 +82,7 @@ KORAIL 데이터, KT데이터, 한국문화원 데이터, 네이버카페 크롤
 
 
 
-**4-1. 자료분석특론 personal project** 
+##**4-1. 자료분석특론 personal project** 
 : Animal Image Classification using Convolution Model
 
 **프로젝트 주제** 
@@ -103,7 +103,7 @@ CNN, Resnet, Mobilenet 모델의 성능 비교
 2) Resnet, Mobilenet 사전학습망 모형 적용
 
 
-**4-2.자료분석특론 personal project** 
+##**4-2.자료분석특론 personal project** 
 : Wine review point 예측
 
 **프로젝트 주제** 
@@ -125,7 +125,7 @@ Kaggle의 Animal Image dataset
 
 
 
-**5. 계산특론 Team project**
+##**5. 계산특론 Team project**
 : 8-Queens Problem using Genetic Algorithm
 
 **프로젝트 주제** 
@@ -148,7 +148,7 @@ Genetic Algorithm. International Journal of Computer Applications. 122. 11-14.10
 
 
 
-**6. 일반화선형모형 Team project**
+##**6. 일반화선형모형 Team project**
 :Garbage Classification with Resnet model
 
 **프로젝트 주제** 
@@ -170,7 +170,7 @@ Resnet 논문의 코드를 구현하여 Resnet18 모델을 적용하고 torch에
 
 
 
-**7. [포스터논문]Heart rate variability enhances the EEG-based machine learning prediction of Internet gaming disorder (최우수상)**
+##**7. [포스터논문]Heart rate variability enhances the EEG-based machine learning prediction of Internet gaming disorder (최우수상)**
 (한국데이터정보학회 포스터 논문 발표)
 
 **분석 주제** 
