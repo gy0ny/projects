@@ -172,7 +172,7 @@ Resnet 논문의 코드를 구현하여 Resnet18 모델을 적용하고 torch에
 <br/><br/>
 
 ## **7. [포스터논문]Heart rate variability enhances the EEG-based machine learning prediction of Internet gaming disorder (최우수상)**
-(한국데이터정보학회 포스터 논문 발표)
+(한국데이터정보과학회 포스터 논문 발표)
 
 **분석 주제** 
 
