@@ -6,6 +6,6 @@
 ## **4-2.자료분석특론 personal project**
 ## **5. 계산특론 Team project**
 ## **6. 일반화선형모형 Team project**
-## **7. [포스터논문]Heart rate variability enhances the EEG-based machine learning prediction of Internet gaming disorder (최우수상)**
+## **7. [포스터논문] Heart rate variability enhances the EEG-based machine learning prediction of Internet gaming disorder (최우수상)**
 (한국데이터정보과학회 포스터 논문 발표)
 
